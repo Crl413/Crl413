@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Crl413.
+- 👀 I’m interested in Programming.
+- 🌱 I’m currently learning Python, JavaScript and MongoDB.
+- 💞️ I’m looking to collaborate in the near Future.
